@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1, (Radio chinese - www.radio.chinesemusicworld.com:8202/)
-http://radio.chinesemusicworld.com:8202/
-#EXTINF:-1, (Radio chinese - www.radio.chinesemusicworld.com:8202/)
-http://radio.chinesemusicworld.com:8202/
+#EXTINF:-1, (Radio chinese - mms://alive.rbc.cn/fm1073)
+mms://alive.rbc.cn/fm1073
 
 
 
