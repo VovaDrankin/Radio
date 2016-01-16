@@ -1,6 +1,6 @@
 {
 	"radio":
 	[
-  {"radio_id":"1", "name":"chinese", "url":"https://raw.githubusercontent.com/VovaDrankin/Radio/master/FamousAncientChineseTunes_64kb_1.m3u" , "img_url":"http://www.frosat.net/images/logotv/original/Logo_Europa_Plus_RU.gif"}
+  {"radio_id":"1", "name":"chinese", "url":"http://radio.chinesemusicworld.com:8202/" , "img_url":"http://www.frosat.net/images/logotv/original/Logo_Europa_Plus_RU.gif"}
 	]
 }
